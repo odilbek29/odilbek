@@ -1,0 +1,37 @@
+h1{
+
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+color: white;
+text-align: center;
+background: #311313;
+margin: 20px 400px;
+}
+body{
+    background: #2A5D5A;
+
+}
+.d{
+    background-color: black;
+    border: 10px solid #FF0606;
+    margin: 20px  220px;
+    
+}
+
+p{
+    background: #1FE8B7;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+  margin: 50px;
+    padding: 54px;
+}
+
+
+
+
+
+
+
+
